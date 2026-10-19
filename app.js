@@ -322,7 +322,7 @@ $("save").onclick = () => {
   lines.forEach((line, i) => g.fillText(line, 600, 920 + i * 54));
   g.fillStyle = "#743b48";
   g.font = "italic 46px Arial";
-  g.fillText("Thân gửi, Twan", 600, 1355);
+  g.fillText("Best wishes from chi và mậm", 600, 1355);
   g.fillStyle = "#a38c7e";
   g.font = "19px Arial";
   g.fillText("20 / 10  •  NGÀY PHỤ NỮ VIỆT NAM", 600, 1460);
